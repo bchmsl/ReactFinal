@@ -35,16 +35,6 @@ const Header = () => {
                   {t("home")}
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link to="/about" className="nav-link">
-                  {t("about")}
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link to="/contact" className="nav-link">
-                  {t("contact")}
-                </Link>
-              </li>
 
               <li className="nav-item">
                 <button
